@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1511778695 source:c:\users\loic\documents\codeblocks\mastermind\mastermind.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"jeu.h"
+
+1512335746 c:\users\loic\documents\codeblocks\mastermind\jeu.h
+
+1512335523 source:c:\users\loic\documents\codeblocks\mastermind\main.c
+	<windows.h>
+
+1512331089 source:c:\users\loic\documents\codeblocks\mastermind\menu.c
+	<stdio.h>
+	<windows.h>
+	"affichage.h"
+
+1511875485 source:c:\users\loic\documents\codeblocks\mastermind\code_couleur.c
+	<stdio.h>
+	<windows.h>
+	"affichage.h"
+
+1511813603 source:c:\users\loic\documents\codeblocks\mastermind\regles.c
+	<stdio.h>
+	<windows.h>
+	"affichage.h"
+
+1512335612 source:c:\users\loic\documents\codeblocks\mastermind\couleur.c
+	<windows.h>
+
+1512316891 source:c:\users\loic\documents\codeblocks\mastermind\jouer.c
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	"jeu.h"
+
+1511807247 source:c:\users\loic\documents\codeblocks\mastermind\quitter.c
+	<stdio.h>
+	<windows.h>
+	"affichage.h"
+
+1512331343 source:c:\users\loic\documents\codeblocks\mastermind\recommencer.c
+	<stdio.h>
+	<windows.h>
+	"affichage.h"
+
+1512322109 source:c:\users\loic\documents\codeblocks\mastermind\resultat.c
+	<stdio.h>
+	<windows.h>
+	"affichage.h"
+
+1512331232 source:c:\users\loic\documents\codeblocks\mastermind\selection.c
+	<stdio.h>
+	"jeu.h"
+
+1512322088 c:\users\loic\documents\codeblocks\mastermind\affichage.h
+
+1511809505 source:c:\users\loic\documents\codeblocks\mastermind\mode_de_jeu.c
+	<stdio.h>
+	"jeu.h"
+
+1512335826 source:c:\users\loic\documents\codeblocks\mastermind\choix_reponse.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"choix_reponse.h"
+
+1511985139 source:c:\users\loic\documents\codeblocks\mastermind\conversion_couleur.c
+	<stdio.h>
+	"affichage.h"
+
+1512055422 source:c:\users\loic\documents\codeblocks\mastermind\ia.c
+	<stdlib.h>
+	<time.h>
+	"jeu.h"
+
+1512331621 source:c:\users\loic\documents\codeblocks\mastermind\affichage.c
+	<stdio.h>
+	"affichage.h"
+
+1512335523 source:c:\users\loic\documents\codeblocks\mastermind\menu_et_regles.c
+	<stdio.h>
+	<windows.h>
+	"menu_et_regles.h"
+
+1512335371 c:\users\loic\documents\codeblocks\mastermind\menu_et_regles.h
+
+1512368502 source:c:\users\loic\documents\codeblocks\mastermind\jeu.c
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	"jeu.h"
+
+1512335845 c:\users\loic\documents\codeblocks\mastermind\choix_reponse.h
+
